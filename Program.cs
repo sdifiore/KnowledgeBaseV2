@@ -1,4 +1,4 @@
-using KnowledgeBase.Data;
+using Knowledgebase.Data;
 
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
